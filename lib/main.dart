@@ -17,28 +17,29 @@ class BookListScreen extends StatelessWidget {
       'author': 'Tutorialspoint',
       'description':
           'Database Management System or DBMS in short refers to the technology of storing and retrieving users’ data with utmost efficiency along with appropriate secuity measures.',
-      'pdfUrl': 'https://greenteapress.com/thinkpython2/thinkpython2.pdf'
+      'pdfUrl': 'https://www.tutorialspoint.com/dbms/dbms_tutorial.pdf'
     },
     {
-      'title': 'Flutter',
-      'author': 'Tutorialspoint',
+      'title': 'Think Java',
+      'author': 'Allen B. Downey & Chris Mayfield',
       'description':
-          'Flutter is an open source framework to create high quality, high performance mobile applications across mobile operating systems - Android and iOS.',
+          'Panduan belajar pemrograman berorientasi objek menggunakan bahasa Java.',
       'pdfUrl': 'https://greenteapress.com/thinkjava7/thinkjava.pdf'
     },
     {
-      'title': 'Dart Programming',
-      'author': 'Tutorialspoint',
+      'title': 'Think Stats',
+      'author': 'Allen B. Downey',
       'description':
-          'Dart is an open-source general-purpose programming language. It is originally developed Google and later approved as a standard by ECMA.',
-      'pdfUrl': 'https://eloquentjavascript.net/Eloquent_JavaScript.pdf'
+          'Belajar probabilitas dan statistik dasar menggunakan kode pemrograman Python.',
+      'pdfUrl': 'https://greenteapress.com/thinkstats2/thinkstats2.pdf'
     },
     {
       'title': 'Computer Fundamentals',
       'author': 'Tutorialspoint',
       'description':
           'Computer is an advanced electronic device that takes raw data as an input from the user and processes it under the control of a set of instructions.',
-      'pdfUrl': 'https://greenteapress.com/thinkos/thinkos.pdf'
+      'pdfUrl':
+          'https://www.tutorialspoint.com/computer_fundamentals/computer_fundamentals_tutorial.pdf'
     },
     {
       'title': 'Data Structures',
